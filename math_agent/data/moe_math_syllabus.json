@@ -1,0 +1,399 @@
+{
+    "version": "2026-03",
+    "last_updated": "2026-03-30",
+    "description": "MOE Singapore Mathematics Syllabus Progression Reference (P1–P6 and Sec 1–4)",
+    "sources": [
+        "2021 Primary Mathematics Syllabus (Updated October 2025)",
+        "2020 G2 and G3 Mathematics Syllabuses"
+    ],
+    "Primary 1": {
+        "topics": [
+            "Whole Numbers (up to 100)",
+            "Addition and Subtraction (within 100)",
+            "Multiplication (concept only, 2x and 5x tables)",
+            "Division (concept only, sharing equally)",
+            "Length (comparing, measuring in cm)",
+            "Weight (comparing, measuring in kg)",
+            "Time (o'clock, half past)",
+            "Money (coins and notes up to $1)",
+            "2D Shapes (rectangle, square, circle, triangle)"
+        ],
+        "allowed_methods": [
+            "Counting on / counting back",
+            "Number bonds",
+            "Part-whole model (basic)",
+            "Comparison model (basic)",
+            "Drawing pictures / concrete objects",
+            "Repeated addition for multiplication",
+            "Equal sharing for division"
+        ],
+        "forbidden_methods": [
+            "Algebra",
+            "Variables (x, y)",
+            "Fractions",
+            "Decimals",
+            "Percentage",
+            "Ratio",
+            "Unitary method",
+            "Long division",
+            "Simultaneous equations",
+            "Any secondary school methods"
+        ],
+        "forbidden_topics": [
+            "Fractions",
+            "Decimals",
+            "Percentage",
+            "Ratio",
+            "Algebra",
+            "Negative numbers",
+            "Indices",
+            "Trigonometry"
+        ]
+    },
+    "Primary 2": {
+        "topics": [
+            "Whole Numbers (up to 1000)",
+            "Addition and Subtraction (up to 1000)",
+            "Multiplication (2x, 3x, 4x, 5x, 10x tables)",
+            "Division (by 2, 3, 4, 5, 10)",
+            "Length (cm and m)",
+            "Weight (g and kg)",
+            "Volume (ml and l)",
+            "Time (hours, minutes, am/pm)",
+            "Money (up to $100)",
+            "Fractions (halves, quarters, thirds — concept only)",
+            "2D and 3D shapes"
+        ],
+        "allowed_methods": [
+            "Number bonds",
+            "Part-whole model",
+            "Comparison model",
+            "Bar model (basic)",
+            "Repeated addition / subtraction",
+            "Times tables recall",
+            "Equal sharing and grouping"
+        ],
+        "forbidden_methods": [
+            "Algebra",
+            "Variables (x, y)",
+            "Decimals",
+            "Percentage",
+            "Ratio",
+            "Unitary method",
+            "Long division",
+            "Simultaneous equations"
+        ],
+        "forbidden_topics": [
+            "Decimals",
+            "Percentage",
+            "Ratio",
+            "Algebra",
+            "Negative numbers",
+            "Indices",
+            "Trigonometry"
+        ]
+    },
+    "Primary 3": {
+        "topics": [
+            "Whole Numbers (up to 10,000)",
+            "Addition, Subtraction, Multiplication, Division",
+            "Multiplication tables (up to 10x10)",
+            "Fractions (unit fractions, equivalent fractions, comparing)",
+            "Money (addition, subtraction, multiplication, division)",
+            "Length, Mass, Volume",
+            "Time (24-hour, duration)",
+            "Area and Perimeter (rectangles and squares)",
+            "Bar graphs",
+            "Angles (right angles, greater/smaller than right angle)"
+        ],
+        "allowed_methods": [
+            "Bar model (part-whole and comparison)",
+            "Model drawing",
+            "Long multiplication",
+            "Short division",
+            "Number bonds",
+            "Equivalent fractions (visual/diagram method)"
+        ],
+        "forbidden_methods": [
+            "Algebra",
+            "Variables (x, y)",
+            "Decimals",
+            "Percentage",
+            "Ratio",
+            "Unitary method",
+            "Simultaneous equations"
+        ],
+        "forbidden_topics": [
+            "Decimals",
+            "Percentage",
+            "Ratio",
+            "Algebra",
+            "Negative numbers",
+            "Indices",
+            "Trigonometry"
+        ]
+    },
+    "Primary 4": {
+        "topics": [
+            "Whole Numbers (up to 100,000)",
+            "Factors and Multiples (including HCF and LCM)",
+            "Fractions (mixed numbers, improper fractions, +/- fractions)",
+            "Decimals (up to 3 decimal places, +/- decimals)",
+            "Money",
+            "Time",
+            "Area and Perimeter (composite figures)",
+            "Angles (measuring and drawing)",
+            "Perpendicular and Parallel Lines",
+            "Symmetry",
+            "Tables and Line Graphs"
+        ],
+        "allowed_methods": [
+            "Bar model",
+            "Model drawing",
+            "Long multiplication and division",
+            "Equivalent fractions",
+            "Working with mixed numbers and improper fractions",
+            "Column method for decimals"
+        ],
+        "forbidden_methods": [
+            "Algebra",
+            "Variables (x, y)",
+            "Percentage",
+            "Ratio",
+            "Unitary method",
+            "Simultaneous equations"
+        ],
+        "forbidden_topics": [
+            "Percentage",
+            "Ratio",
+            "Algebra",
+            "Negative numbers",
+            "Indices",
+            "Trigonometry"
+        ]
+    },
+    "Primary 5": {
+        "topics": [
+            "Whole Numbers (order of operations, BODMAS)",
+            "Fractions (multiplying, dividing fractions)",
+            "Decimals (multiplying, dividing decimals)",
+            "Percentage (finding percentage of a quantity, percentage change)",
+            "Ratio (basics, equivalent ratios)",
+            "Rate (basic)",
+            "Area and Perimeter (triangles, parallelograms)",
+            "Volume (cubes and cuboids)",
+            "Angles (sum of angles in triangle, on a line)",
+            "Triangles and 4-sided figures",
+            "Tessellation",
+            "Average",
+            "Data Analysis (pie charts)"
+        ],
+        "allowed_methods": [
+            "Unitary method",
+            "Bar model",
+            "Model drawing",
+            "Ratio method (part : part : whole)",
+            "Percentage method (part / whole x 100)",
+            "Working backwards",
+            "Guess and check (with working shown)",
+            "Table method for rate problems"
+        ],
+        "forbidden_methods": [
+            "Algebra (forming equations with x, y)",
+            "Simultaneous equations",
+            "Quadratic methods",
+            "Trigonometry"
+        ],
+        "forbidden_topics": [
+            "Algebra",
+            "Negative numbers",
+            "Indices",
+            "Trigonometry",
+            "Simultaneous equations"
+        ]
+    },
+    "Primary 6": {
+        "topics": [
+            "Fractions, Decimals, Percentage (all operations)",
+            "Ratio (including before/after scenarios)",
+            "Speed (distance, time, speed relationship)",
+            "Percentage (discount, GST, profit/loss)",
+            "Circles (area and circumference)",
+            "Pie Charts",
+            "Volume (of solids)",
+            "Nets of 3D shapes",
+            "Angles (in polygons, on parallel lines)",
+            "Basic Algebra (only as introduced in P6 — simple expressions)"
+        ],
+        "allowed_methods": [
+            "Unitary method",
+            "Bar model",
+            "Ratio method",
+            "Before-after model",
+            "Percentage method",
+            "Speed-Distance-Time formula (D=ST)",
+            "Working backwards",
+            "Table method",
+            "Simple algebraic expressions (P6 level only: e.g. 3x + 5 = 20)"
+        ],
+        "forbidden_methods": [
+            "Simultaneous equations",
+            "Quadratic equations",
+            "Trigonometry",
+            "Secondary school algebra"
+        ],
+        "forbidden_topics": [
+            "Simultaneous equations",
+            "Indices",
+            "Trigonometry",
+            "Quadratic equations",
+            "Negative number operations beyond basic"
+        ]
+    },
+    "Secondary 1": {
+        "topics": [
+            "Primes, HCF, LCM",
+            "Integers (negative numbers, all operations)",
+            "Rational Numbers",
+            "Approximation and Estimation",
+            "Basic Algebra (simplifying expressions, substitution)",
+            "Algebraic Manipulation (expanding, factorising — basic)",
+            "Simple Linear Equations",
+            "Simple Inequalities",
+            "Functions and Graphs (linear, basic)",
+            "Angles (transversals, parallel lines, polygons)",
+            "Congruence and Similarity (basic)",
+            "Perimeter, Area, Volume",
+            "Statistics (mean, mode, median, range)"
+        ],
+        "allowed_methods": [
+            "Algebraic method (forming and solving linear equations)",
+            "Substitution",
+            "Simplification of expressions",
+            "Expanding brackets",
+            "Factorisation (common factor)",
+            "Number line for inequalities",
+            "Graphical method (plotting linear graphs)",
+            "Unitary method (still valid for ratio/rate)"
+        ],
+        "forbidden_methods": [
+            "Simultaneous equations (not yet taught)",
+            "Quadratic formula",
+            "Trigonometry (not yet)",
+            "Matrices"
+        ],
+        "forbidden_topics": [
+            "Simultaneous equations",
+            "Quadratic equations",
+            "Trigonometry",
+            "Matrices",
+            "Differentiation"
+        ]
+    },
+    "Secondary 2": {
+        "topics": [
+            "Algebra (further manipulation, expansion, factorisation)",
+            "Simultaneous Linear Equations",
+            "Quadratic Expressions and Equations (factorisation method)",
+            "Indices and Standard Form",
+            "Direct and Inverse Proportion",
+            "Linear Graphs and Gradients",
+            "Coordinate Geometry (distance, midpoint)",
+            "Geometrical Properties (triangles, quadrilaterals)",
+            "Pythagoras Theorem",
+            "Trigonometry (basic — sin, cos, tan in right-angled triangles)",
+            "Statistics (dot diagrams, stem & leaf, histograms, frequency tables)",
+            "Probability (basic)"
+        ],
+        "allowed_methods": [
+            "Simultaneous equations (elimination and substitution method)",
+            "Factorisation (common factor, grouping, difference of squares, trinomials)",
+            "Quadratic factorisation",
+            "Pythagoras theorem",
+            "Trigonometric ratios (SOH-CAH-TOA)",
+            "Index laws",
+            "Gradient formula",
+            "Coordinate geometry formulas"
+        ],
+        "forbidden_methods": [
+            "Quadratic formula (use factorisation instead at this stage)",
+            "Completing the square",
+            "Matrices",
+            "Differentiation / Integration",
+            "Sine rule / Cosine rule"
+        ],
+        "forbidden_topics": [
+            "Quadratic formula",
+            "Completing the square",
+            "Matrices",
+            "Calculus",
+            "Sine/Cosine rule"
+        ]
+    },
+    "Secondary 3": {
+        "topics": [
+            "Quadratic Equations (factorisation, completing the square, quadratic formula)",
+            "Surds",
+            "Further Trigonometry (sine rule, cosine rule, area of triangle)",
+            "Radian Measure (A-Math only)",
+            "Polynomials",
+            "Partial Fractions (A-Math)",
+            "Exponential and Logarithms (A-Math)",
+            "Coordinate Geometry (circles — A-Math)",
+            "Further Statistics (cumulative frequency, box plots)",
+            "Probability (combined events, tree diagrams)",
+            "Matrices (E-Math optional/A-Math)",
+            "Vectors (A-Math)"
+        ],
+        "allowed_methods": [
+            "Quadratic formula",
+            "Completing the square",
+            "Sine rule and cosine rule",
+            "Surd simplification",
+            "Logarithm laws",
+            "Exponential equations",
+            "Tree diagrams for probability",
+            "Matrix operations",
+            "Vector methods"
+        ],
+        "forbidden_methods": [
+            "Differentiation / Integration (Sec 4 only)",
+            "Maclaurin series"
+        ],
+        "forbidden_topics": [
+            "Calculus (Differentiation/Integration)",
+            "Maclaurin series"
+        ]
+    },
+    "Secondary 4": {
+        "topics": [
+            "All Sec 1–3 topics extended",
+            "Differentiation (A-Math: polynomials, trig, exp, log)",
+            "Integration (A-Math: basic integration, area under curve)",
+            "Applications of Differentiation (rate of change, max/min)",
+            "Kinematics (A-Math)",
+            "Further Trigonometry",
+            "Circles and Coordinate Geometry",
+            "Vectors",
+            "Further Probability and Statistics"
+        ],
+        "allowed_methods": [
+            "All Sec 1–3 methods",
+            "Differentiation (chain rule, product rule, quotient rule — A-Math)",
+            "Integration by substitution (A-Math)",
+            "Definite integrals for area",
+            "All trigonometric identities",
+            "All algebraic techniques"
+        ],
+        "forbidden_methods": [
+            "University-level calculus",
+            "Maclaurin / Taylor series",
+            "Differential equations (beyond syllabus)"
+        ],
+        "forbidden_topics": [
+            "University calculus",
+            "Maclaurin series",
+            "Differential equations"
+        ]
+    }
+}

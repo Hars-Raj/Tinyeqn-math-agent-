@@ -1,0 +1,44 @@
+{
+    "version": "2026-03",
+    "description": "High-risk guardrails and bidirectional validation rules for MOE Math Leveling Agent",
+    "high_risk_guardrails": [
+        {
+            "topic": "bar model / tape diagram / unitary method for ratios, before-after, more than, difference",
+            "expected_level": "P5/P6",
+            "note": "Do NOT jump to Sec 1 just because algebra also works. Primary students are expected to use visual models."
+        },
+        {
+            "topic": "formal algebra (using x as unknown, forming and solving linear equations like 'let the number be x')",
+            "expected_level": "Sec 1 earliest",
+            "note": "Primary students (P1–P6) are not taught or expected to use symbolic algebra."
+        },
+        {
+            "topic": "Pythagoras’ theorem",
+            "expected_level": "Sec 2 earliest"
+        },
+        {
+            "topic": "Simultaneous linear equations (two variables)",
+            "expected_level": "Sec 2 earliest"
+        },
+        {
+            "topic": "Quadratic equations (factorisation, formula, completing the square)",
+            "expected_level": "Sec 2 (basic) to Sec 3"
+        },
+        {
+            "topic": "Trigonometry (SOH-CAH-TOA and beyond)",
+            "expected_level": "Sec 2 earliest"
+        }
+    ],
+    "bidirectional_validation_rules": [
+        "After proposing a level, always check: Would a student at the level BELOW have all prerequisites and expected methods? If yes, consider downgrading.",
+        "Check: Does the question require skills or methods only taught at a HIGHER level? If yes, upgrade.",
+        "Always prefer the EARLIEST level where the INTENDED pedagogical method (e.g. bar model vs algebra) is taught and practised.",
+        "If a Primary method (bar model / unitary) works well, default to Primary level even if algebra is possible.",
+        "If the question naturally leads to forming equations with variables, it is likely Sec 1 or higher."
+    ],
+    "general_principles": [
+        "Level based on what a typical student at that level has been TAUGHT and is EXPECTED to use, not on any mathematically valid solution.",
+        "Method mismatch is the most common error (e.g. P5 question solved with algebra → still P5).",
+        "Complexity of word problems using models increases from P3 to P6."
+    ]
+}
